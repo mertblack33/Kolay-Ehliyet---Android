@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kolay Ehliyet</string>
+    <string-array name="kisa10">
+        <item>BÖLÜM SEÇ</item>
+        <item>1. BÖLÜM</item>
+        <item>2. BÖLÜM</item>
+        <item>3. BÖLÜM</item>
+        <item>4. BÖLÜM</item>
+        <item>5. BÖLÜM</item>
+        <item>6. BÖLÜM</item>
+        <item>7. BÖLÜM</item>
+        <item>8. BÖLÜM</item>
+        <item>9. BÖLÜM</item>
+        <item>10. BÖLÜM</item>
+        <item>11. BÖLÜM</item>
+        <item>12. BÖLÜM</item>
+        <item>13. BÖLÜM</item>
+    </string-array>
+    <string-array name="soru50">
+        <item>BÖLÜM SEÇ</item>
+        <item>1. BÖLÜM</item>
+        <item>2. BÖLÜM</item>
+        <item>3. BÖLÜM</item>
+    </string-array>
+
+
+</resources>
